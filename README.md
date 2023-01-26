@@ -1,5 +1,5 @@
 # pomodoro
-A simple GUI work time management 
+A simple GUI work time management app
 
     Identify a task or tasks that you need to complete.
     
